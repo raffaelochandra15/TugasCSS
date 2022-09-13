@@ -1,0 +1,37 @@
+#header h1{
+    color: rgb(184, 63, 63);
+}
+#content h2{
+    background-color: rgb(219, 157, 157);
+}
+#content h2{
+    color: rgb(187, 59, 59);
+}
+#content p {
+    background-color: rgb(230, 230, 136);
+}
+#content p {color: green;}
+#daftar-sidebar h1{
+    background-color: rgb(241, 170, 170);
+}
+#daftar-sidebar h1{
+    color: rgb(173, 58, 58);
+}
+.sidebar h2{
+    background-color: rgb(235, 155, 155);
+}
+.sidebar h2{
+    color: rgb(180, 70, 70);
+}
+.sidebar p {
+    background-color: rgb(211, 211, 137);
+}
+.sidebar p {
+    color: green;
+}
+#header img{
+    width: 200px; height: 200px;
+}
+.gambar img{
+    width: 100px; height: 100px;
+}
